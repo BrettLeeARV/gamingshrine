@@ -14,7 +14,8 @@ user-select: none; /* Standard syntax */
   position: absolute;
   z-index: 1;
   bottom: 0;
-  max-height: 50px;  
+  max-height: 50px;
+  min-height: 50px;  
   display: flex;
   flex-direction: column;
   width: 100%;

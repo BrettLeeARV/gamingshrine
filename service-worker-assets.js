@@ -5,7 +5,7 @@
       "url": "audio\/snap.wav"
     },
     {
-      "hash": "sha256-NrzzQGI2qSUN6wnRfbKN\/VveEQLHmOefB77kT3D2amo=",
+      "hash": "sha256-\/zOwiiChKZ+BtO3K+ZbXhw02ccI8XL96rc6us+RVC+c=",
       "url": "css\/app.css"
     },
     {
@@ -333,7 +333,7 @@
       "url": "images\/Sony\/Logo.png"
     },
     {
-      "hash": "sha256-bgB4+JeAa2lfBRWBdhpHpC9jgJve8e7LJHuNom6vSpA=",
+      "hash": "sha256-cy834xBbryzXb8Yhymxu6sIMGJoG+EiNLcslMI0lKw8=",
       "url": "index.html"
     },
     {
@@ -533,5 +533,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "Y1YLqoP4"
+  "version": "Ch27p40z"
 };

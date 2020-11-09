@@ -151,7 +151,7 @@ text-decoration: none !important;
 .new-item-button {
   position: fixed;
   right: 0;
-  bottom: 50px;
+  bottom: 0;
   margin-right: 40px;
   margin-bottom: 40px;
   z-index: 900;

@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.pinecodetech.gshrine.twa",
+                   "sha256_cert_fingerprints": ["E8:FA:C3:9C:FC:10:C1:7A:3C:86:DA:67:51:7C:D6:8C:A0:D0:4E:59:34:C5:55:E9:F7:21:0A:C7:BA:3E:F6:95"] }
+    }]

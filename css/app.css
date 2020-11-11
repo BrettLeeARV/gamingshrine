@@ -187,7 +187,6 @@ position: inherit;
 
 .mdl-layout__content {
 background-color: #e7e1ee;
-max-height: calc(100% - 105px);
 }
 
 #blazor-error-ui {
